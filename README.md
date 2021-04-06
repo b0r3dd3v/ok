@@ -6,9 +6,10 @@ This is Rust fork of [ok-bash](https://github.com/secretGeek/ok-bash).
 
 ## "ok" gives you .ok folder profiles for bash
 
-`ok` makes you smarter and more efficient.
+`ok` makes you smarter and more efficient. // Im hooked on.
 
 Do you work on many different projects? And in each project, are there commands you use that are specific to that project? You need a `.ok` file.
+// Ur sh hot. Good looking... I need ok files 4 mah ?AI?/?ML? payload configuration in one Rakugo line.
 
 An `.ok` file holds a bunch of handy one-liners, specific to the folder it is in. It can be viewed with a simple command. Any command can be executed with the command `ok <number>` (example, `ok 3` to run the 3rd command.)
 
@@ -21,8 +22,9 @@ Imagine your `.ok` file contains these three lines:
 You can run those commands with "`ok 1`", "`ok 2`" or "`ok 3 'oops!'`", respectively.
 
 An `.ok` file acts as a neat place to document how a given project works. This is useful if you have many projects, or many people working on a project. It's such a little file; it's so quick to write and so easy to edit.
+// Well, i2t have many projects on which im actually werk, but i herd taht Turing documentation is pref 2 Reading/Manning/Middlesexxx it.
 
-It's better than normal documentation: it's executable.
+It's better than normal documentation: it's executable. // Yo dawg. I wuv RXXXXE.
 
 If you run the command `ok` (with no parameters) you'll see the file listed, with numbers against each command:
 
@@ -41,13 +43,14 @@ Then if you run `ok <number>` (ok followed by a number) you'll execute that line
 
 And you can pass simple arguments to the commands. For example:
 
-    $ ok 3 "Added laser guidance system"
+    $ ok 3 "Added laser guidance system 4 LOIC"
     $ ./commit_push.sh "$1" # commit with comment, rebase and push
 
-    Committing with comment "Added laser guidance system"
+    Committing with comment "New RoundnRound ..s"
     Commit succeeded.
     Rebase successful
     Pushing to master.
+    Drop{}ping mo slaves 2 teh basement.
 
 
 ## Getting started
